@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![logo](https://github.com/shalenMathew/shalenMathew/blob/main/Add%20a%20heading.png)
 <h1 align="center">Hi 👋, I'm Shalen Mathew</h1>
 <h3 align="center">A passionate guy who like products, design and code</h3>
 <img align="right" alt="coding" width ="400" src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif">

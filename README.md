@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-
-
-
 <h1 align="center">Hi 👋, I'm Shalen Mathew</h1>
 <h3 align="center">A passionate guy who like products, design and code</h3>
-<img align="right" alt="coding" width ="400" src="https://cdnb.artstation.com/p/assets/images/images/036/514/063/original/christopher-anry-breeze-720p.gif?1617875701">
+<img align="right" alt="coding" width ="400" src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalenmathew&label=Profile%20views&color=0e75b6&style=flat" alt="shalenmathew" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shalen_mathew" target="blank"><img src="https://img.shields.io/twitter/follow/shalen_mathew?logo=twitter&style=for-the-badge" alt="shalen_mathew" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mathewshalen" target="blank"><img src="https://img.shields.io/twitter/follow/mathewshalen?logo=twitter&style=for-the-badge" alt="mathewshalen" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, Android development**
 
@@ -21,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Mathewshalen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shalen_mathew" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shalen-mathew-3b566921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalen mathew" height="30" width="40" /></a>
+<a href="https://twitter.com/Mathewshalen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathewshalen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shalen-mathew-3b566921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalen-mathew-3b566921b" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shalenmj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shalenmj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shalenmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shalenmj" height="30" width="40" /></a>
 </p>
@@ -35,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalenmathew&show_icons=true&locale=en" alt="shalenmathew" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalenmathew&" alt="shalenmathew" /></p>
+
+

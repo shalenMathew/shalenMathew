@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shalenmj@gmail.com**
 
-- ⚡ Fun fact No fun fact
+- ⚡ Fun fact - Yeah things can get real bad when u get to know in real life facts are not fun
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

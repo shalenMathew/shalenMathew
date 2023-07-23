@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shalenmj@gmail.com**
 
-- ⚡ Fun fact **I can flirt**
+- ⚡ Fun fact No fun fact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

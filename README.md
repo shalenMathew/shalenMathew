@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **DSA, Android development**
+- 🌱 I’m currently learning **Android development**
 
-- 💬 Ask me about **DSA and android development**
+- 💬 Ask me about **android development**
 
 - 📫 How to reach me **shalenmj@gmail.com**
 

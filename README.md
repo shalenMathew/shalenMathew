@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **shalenmj@gmail.com**
 
-- ⚡ Fun fact - None
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shalenMathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathewshalen" height="30" width="40" /></a>

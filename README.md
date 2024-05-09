@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m an **Android Developer**
 
 - 💬 Ask me about **android development**
 

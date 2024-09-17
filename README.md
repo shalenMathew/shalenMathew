@@ -1,6 +1,4 @@
 ### Hi there, This is Shalen Mathew👋
-![logo](https://github.com/shalenMathew/shalenMathew/blob/main/Add%20a%20heading.png)
-<h1 align="center">Hi 👋, This is Shalen Mathew</h1>
 <img align="right" alt="coding" width ="400" src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalenmathew&label=Profile%20views&color=0e75b6&style=flat" alt="shalenmathew" /> </p>

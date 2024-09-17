@@ -1,9 +1,6 @@
 ### Hi there, This is Shalen Mathew👋
 <img align="right" alt="coding" width ="400" src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalenmathew&label=Profile%20views&color=0e75b6&style=flat" alt="shalenmathew" /> </p>
-
-
 
 - 🌱 I’m an **Android Developer**
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Projects, Open Source Projects and on my DSA skills<br>👯 I’m looking to collaborate on Android Dev Projects<br>📫 How to reach me shalenmj@gmail.com<br>📄 <a href="https://drive.google.com/file/d/1SP_6fcmsPsXICCJmxoYs3QpGYVgKMsdl/view?usp=drive_link" target="_blank">Take a peek into my Resume</a>
+🔭 I’m currently working on Personal Projects, Open Source Projects and on my DSA skills<br>👯 I’m looking to collaborate on Android Dev Projects<br>📫 How to reach me shalenmj@gmail.com<br>📄 Take a peek into my<a href="https://drive.google.com/file/d/1SP_6fcmsPsXICCJmxoYs3QpGYVgKMsdl/view?usp=drive_link" target="_blank"> Resume</a>
 
 
 ## 🌐 Socials:

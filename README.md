@@ -1,4 +1,4 @@
-### Hi there, This is Shalen Mathew👋
+### Hi there, I'm Shalen Mathew👋
 <img align="right" alt="coding" width ="400" src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif">
 
 

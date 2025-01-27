@@ -15,7 +15,6 @@ I'm an Android Developer passionate about building sleek, performant, and user-f
 
 ## 📚 Let's Connect:
 - 📎 LinkedIn: [Shalen Mathew](https://www.linkedin.com/in/shalen-mathew-3b566921b/) 
-- 🧑‍💻 GitHub: [Shalen Mathew](https://github.com/shalenmathew) 
 - ✏️ X: [Shalen Mathew](https://x.com/shalenmathew) 
 - 🦋 Bluesky: [Shalen Mathew](https://bsky.app/profile/shalenmathew.bsky.social)
 - 📫 Gmail: **shalenmj@gmail.com**

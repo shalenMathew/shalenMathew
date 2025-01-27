@@ -14,10 +14,10 @@ I'm an Android Developer passionate about building sleek, performant, and user-f
 
 
 ## 📚 Let's Connect:
-- LinkedIn: [Shalen Mathew](https://www.linkedin.com/in/shalen-mathew) 📎
-- GitHub: [Shalen Mathew](https://github.com/shalenmathew) 🧑‍💻
-- X: [Shalen Mathew](https://x.com/shalenmathew) ✏️
-- Bluesky: [Shalen Mathew](https://bsky.app/profile/shalenmathew.bsky.social)🦋
+- 📎 LinkedIn: [Shalen Mathew](https://www.linkedin.com/in/shalen-mathew) 
+- 🧑‍💻 GitHub: [Shalen Mathew](https://github.com/shalenmathew) 
+- ✏️ X: [Shalen Mathew](https://x.com/shalenmathew) 
+- 🦋 Bluesky: [Shalen Mathew](https://bsky.app/profile/shalenmathew.bsky.social)
 - 📫 Gmail: **shalenmj@gmail.com**
 - 📄 Take a peek into my **<a href="https://drive.google.com/file/d/1SP_6fcmsPsXICCJmxoYs3QpGYVgKMsdl/view?usp=drive_link" target="_blank"> Resume</a>**
 

@@ -1,11 +1,25 @@
-# Hi, My name is Shalen Mathew 👨‍💻
+# 👋 Hello, I'm Shalen Mathew! 👨‍💻
 
-## 💫 About Me:
-🔭 I’m currently working on **Personal Projects, Open Source Projects and on my DSA skills**<br>👯 I’m looking to collaborate on **Android Dev Projects**<br>📫 How to reach me **shalenmj@gmail.com**<br>📄 Take a peek into my **<a href="https://drive.google.com/file/d/1SP_6fcmsPsXICCJmxoYs3QpGYVgKMsdl/view?usp=drive_link" target="_blank"> Resume</a>**
+I'm an Android Developer passionate about building sleek, performant, and user-friendly mobile applications! 🚀
+
+## 🔧 Technologies I Work With:
+- **Android Development** 📱
+  - Kotlin, Java ☕
+  - Jetpack Compose ✨
+  - Dependency Injection 🧳
+  - MVVM, Clean Architecture 🏗️
+  - Firebase 🔥
+- **Version Control** 🛠️
+  - Git, GitHub, GitLab 🧑‍💻
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shalen-mathew-3b566921b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shalenmathew) 
+## 📚 Let's Connect:
+- LinkedIn: [Shalen Mathew](https://www.linkedin.com/in/shalen-mathew) 📎
+- GitHub: [Shalen Mathew](https://github.com/shalenmathew) 🧑‍💻
+- X: [Shalen Mathew](https://x.com/shalenmathew) ✏️
+- Bluesky: [Shalen Mathew](https://bsky.app/profile/shalenmathew.bsky.social)🦋
+- 📫 Gmail: **shalenmj@gmail.com**
+- 📄 Take a peek into my **<a href="https://drive.google.com/file/d/1SP_6fcmsPsXICCJmxoYs3QpGYVgKMsdl/view?usp=drive_link" target="_blank"> Resume</a>**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shalenMathew&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

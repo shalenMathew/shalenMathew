@@ -18,7 +18,7 @@ I'm an Android Developer passionate about building sleek, performant, and user-f
 - ✏️ X: [Shalen Mathew](https://x.com/shalenmathew) 
 - 🦋 Bluesky: [Shalen Mathew](https://bsky.app/profile/shalenmathew.bsky.social)
 - 📫 Gmail: **shalenmj@gmail.com**
-- 📄 Take a peek into my **<a href="https://drive.google.com/file/d/1SP_6fcmsPsXICCJmxoYs3QpGYVgKMsdl/view?usp=drive_link" target="_blank"> Resume</a>**
+- 📄 Take a peek into my **<a href="https://drive.google.com/file/d/1q0E-dVHNgBXLVqKnJRGeH4mDpG7dWBFq/view?usp=drive_link" target="_blank"> Resume</a>**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shalenMathew&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

@@ -7,7 +7,7 @@ I'm an Android Developer passionate about building sleek, performant, and user-f
   - Kotlin, Java ☕
   - Jetpack Compose ✨
   - Dependency Injection 🧳
-  - MVVM, Clean Architecture 🏗️
+  - MVVM,MVI Clean Architecture 🏗️
   - Firebase 🔥
 - **Version Control** 🛠️
   - Git, GitHub, GitLab 🧑‍💻

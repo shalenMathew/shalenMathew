@@ -4,12 +4,16 @@ I'm an Android Developer passionate about building sleek, performant, and user-f
 
 ## 🔧 Technologies I Work With:
 - **Android Development** 📱
-  - Kotlin, Java ☕
-  - Jetpack Compose ✨
-  - Dependency Injection 🧳
-  - MVVM,MVI Clean Architecture 🏗️
-  - Firebase 🔥
-- **Version Control** 🛠️
+- Languages: Kotlin, Java
+- UI Toolkit: Jetpack Compose
+- Architecture: MVVM, MVI, Clean Architecture
+-State Management: LiveData, Flows
+- Networking: Retrofit, OkHttp
+- Database: Room
+- Dependency Injection: Hilt, Dagger, Koin
+- Backend & Storage: Firebase
+
+**Version Control** 🛠️
   - Git, GitHub, GitLab 🧑‍💻
 
 

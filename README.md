@@ -6,8 +6,8 @@ I'm an Android Developer passionate about building sleek, performant, and user-f
 - **Android Development** 📱
 - Languages: Kotlin, Java
 - UI Toolkit: Jetpack Compose
-- Architecture: MVVM, MVI, Clean Architecture
--State Management: LiveData, Flows
+- Architecture: MVVM, MVI
+- State Management: LiveData, Flows
 - Networking: Retrofit, OkHttp
 - Database: Room
 - Dependency Injection: Hilt, Dagger, Koin

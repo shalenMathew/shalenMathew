@@ -5,13 +5,18 @@ I'm an Android Developer passionate about building sleek, performant, and user-f
 ## 🔧 Technologies I Work With:
 - **Android Development** 📱
 - Languages: Kotlin, Java
-- UI Toolkit: Jetpack Compose
-- Architecture: MVVM, MVI
+- Architecture: MVVM, MVI, Clean Architecture
+- Jetpack Components: ViewModel, LiveData, Room, Navigation, WorkManager, Paging3
+- Asynchronous: Coroutines, Flow,
+- Android Components: Service, BroadcastReceiver, ContentProvider, IntentService, Foreground Services
 - State Management: LiveData, Flows
 - Networking: Retrofit, OkHttp
-- Database: Room
 - Dependency Injection: Hilt, Dagger, Koin
-- Backend & Storage: Firebase
+- Backend & Storage:  Firestore, FCM, Firebase Auth, Firebase Analytics, Crashlytics
+- Networking: Retrofit, OkHttp, Gson, Ktor
+- Testing: JUnit, Espresso, Mockito
+- Tools: Android Studio, Git, GitHub, Postman, Gradle, CI/CD
+- Others: Jetpack Compose, DataStore, Glide, Coil, Google Maps SDK
 
 **Version Control** 🛠️
   - Git, GitHub, GitLab 🧑‍💻

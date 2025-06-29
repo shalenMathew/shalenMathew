@@ -4,8 +4,8 @@ I'm an Android Developer passionate about building sleek, performant, and user-f
 
 ## 🔧 Technologies I Work With:
 - **Android Development** 📱
-- Languages: Kotlin, Java
-- Architecture: MVVM, MVI, Clean Architecture
+- **Languages**: Kotlin, Java
+- **Architecture**: MVVM, MVI, Clean Architecture
 - Jetpack Components: ViewModel, LiveData, Room, Navigation, WorkManager, Paging3
 - Asynchronous: Coroutines, Flow,
 - Android Components: Service, BroadcastReceiver, ContentProvider, IntentService, Foreground Services

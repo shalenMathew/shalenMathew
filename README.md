@@ -29,7 +29,7 @@
 - 🦋 Bluesky: [Shalen Mathew](https://bsky.app/profile/shalenmathew.bsky.social)
 - 📫 Gmail: **shalenmj@gmail.com**
 - 🌳 Linktree - [Shalen Mathew](https://linktr.ee/shalenmathew)
-- 📄 Take a peek into my **<a href="https://drive.google.com/file/d/1-lJien0q0Y7ywn_ItkfhtGDgh5R84NA8/view?usp=sharing" target="_blank"> Resume</a>**
+- 📄 Take a peek into my **<a href="https://drive.google.com/file/d/1V58Q-VWgax4zframR1O6DLS4IcKp5AL6/view?usp=sharing" target="_blank"> Resume</a>**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shalenMathew&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

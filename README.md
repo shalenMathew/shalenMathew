@@ -5,22 +5,13 @@
 <img width="1500" height="500" alt="Twitter updated banner 2" src="https://github.com/user-attachments/assets/b1b4f5a9-162e-4bad-8938-f44e4df0fb5c" />
 
 ## 🔧 Technologies I Work With:
-- *Languages*: Kotlin, Java  
-- *Architecture*: MVVM, MVI, Clean Architecture  
-- *Jetpack Components*: ViewModel, LiveData, Room, Navigation, WorkManager, Paging3  
-- *Asynchronous*: Coroutines, Flow  
-- *Android Components*: Service, BroadcastReceiver, ContentProvider, IntentService, Foreground Services  
-- *State Management*: LiveData, Flows  
-- *Networking*: Retrofit, OkHttp  
-- *Dependency Injection*: Hilt, Dagger, Koin  
-- *Backend & Storage*: Firestore, FCM, Firebase Auth, Firebase Analytics, Crashlytics  
-- *Networking*: Retrofit, OkHttp, Gson, Ktor  
-- *Testing*: JUnit, Espresso, Mockito  
-- *Tools*: Android Studio, Git, GitHub, Postman, Gradle, CI/CD  
-- *Others*: Jetpack Compose, DataStore, Glide, Coil, Google Maps SDK
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,git,github,gitlab,postman" /><br/>
+  <img src="https://skillicons.dev/icons?i=ktor" />
+</div>
 
-**Version Control** 🛠️
-  - Git, GitHub, GitLab 🧑‍💻
+## 📄 My Resume
+<div align="center"> <a href="https://drive.google.com/file/d/1BSeKlHJfBcYGL8XTmsqALEg_Uw0xqAd-/view?usp=drive_link" target="_blank"> <img src="https://img.shields.io/badge/VIEW%20RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button" /> </a> </div>
 
 
 ## 📚 Let's Connect:
@@ -30,16 +21,18 @@
   <a href="https://discord.gg/s9X8qqug"> <img src="https://skillicons.dev/icons?i=discord" width="55" alt="Discord"> </a>
   <a href="https://bsky.app/profile/shalenmathew.bsky.social"> <img src="https://cdn.simpleicons.org/bluesky/0A7AFF" width="55" alt="Bluesky"> </a> <a href="mailto:shalenmj@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Gmail"> </a> <a href="https://linktr.ee/shalenmathew"> <img src="https://cdn.simpleicons.org/linktree/39E09B" width="55" alt="Linktree"> </a> </div>
 
-  📄 My Resume
-<div align="center"> <a href="https://drive.google.com/file/d/1BSeKlHJfBcYGL8XTmsqALEg_Uw0xqAd-/view?usp=drive_link" target="_blank"> <img src="https://img.shields.io/badge/VIEW%20RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button" /> </a> </div>
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shalenMathew&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shalenMathew&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shalenMathew&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shalenMathew&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shalenMathew&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalenMathew&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shalenMathew&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shalenMathew&theme=onedark&row=1&no-frame=true&margin-w=15" /> </div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -25,7 +25,8 @@
 
 ## 📚 Let's Connect:
 - 📎 LinkedIn: [Shalen Mathew](https://www.linkedin.com/in/shalen-mathew-3b566921b/) 
-- ✏️ X: [Shalen Mathew](https://x.com/shalenmathew) 
+- ✏️ X: [Shalen Mathew](https://x.com/shalenmathew)
+- 🤖 Discord: [Shalen Mathew](https://discord.gg/s9X8qqug)
 - 🦋 Bluesky: [Shalen Mathew](https://bsky.app/profile/shalenmathew.bsky.social)
 - 📫 Gmail: **shalenmj@gmail.com**
 - 🌳 Linktree - [Shalen Mathew](https://linktr.ee/shalenmathew)

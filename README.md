@@ -24,13 +24,14 @@
 
 
 ## 📚 Let's Connect:
-- 📎 LinkedIn: [Shalen Mathew](https://www.linkedin.com/in/shalen-mathew-3b566921b/) 
-- ✏️ X: [Shalen Mathew](https://x.com/shalenmathew)
-- 🤖 Discord: [Shalen Mathew](https://discord.gg/s9X8qqug)
-- 🦋 Bluesky: [Shalen Mathew](https://bsky.app/profile/shalenmathew.bsky.social)
-- 📫 Gmail: **shalenmj@gmail.com**
-- 🌳 Linktree - [Shalen Mathew](https://linktr.ee/shalenmathew)
-- 📄 Take a peek into my **<a href="https://drive.google.com/file/d/1BSeKlHJfBcYGL8XTmsqALEg_Uw0xqAd-/view?usp=drive_link" target="_blank"> Resume</a>**
+<div align="center">
+  <a href="https://www.linkedin.com/in/shalen-mathew-3b566921b/"> <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"> </a>
+  <a href="https://x.com/shalenmathew"> <img src="https://skillicons.dev/icons?i=twitter" width="55" alt="X Profile"> </a> 
+  <a href="https://discord.gg/s9X8qqug"> <img src="https://skillicons.dev/icons?i=discord" width="55" alt="Discord"> </a>
+  <a href="https://bsky.app/profile/shalenmathew.bsky.social"> <img src="https://cdn.simpleicons.org/bluesky/0A7AFF" width="55" alt="Bluesky"> </a> <a href="mailto:shalenmj@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Gmail"> </a> <a href="https://linktr.ee/shalenmathew"> <img src="https://cdn.simpleicons.org/linktree/39E09B" width="55" alt="Linktree"> </a> </div>
+
+  📄 My Resume
+<div align="center"> <a href="https://drive.google.com/file/d/1BSeKlHJfBcYGL8XTmsqALEg_Uw0xqAd-/view?usp=drive_link" target="_blank"> <img src="https://img.shields.io/badge/VIEW%20RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button" /> </a> </div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shalenMathew&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

@@ -2,7 +2,8 @@
 
 ### I belive in Apps more than websites !!! 
 
-<img width="1500" height="500" alt="Twitter updated banner 2" src="https://github.com/user-attachments/assets/b1b4f5a9-162e-4bad-8938-f44e4df0fb5c" />
+<img width="1500" height="500" alt="x updated banner  2" src="https://github.com/user-attachments/assets/8ca68c6c-7c07-4a13-931b-902d1110f295" />
+
 
 ## 🔧 Technologies I Work With:
 <div align="center">

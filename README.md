@@ -28,7 +28,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shalenMathew&theme=tokyonight&hide_border=true" height="160"/>
 </div>
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalenMathew&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalenMathew&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 ## 🏆 GitHub Trophies

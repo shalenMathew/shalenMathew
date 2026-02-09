@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/shalen-mathew-3b566921b/"> <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"> </a>
   <a href="https://x.com/shalenmathew"> <img src="https://skillicons.dev/icons?i=twitter" width="55" alt="X Profile"> </a> 
-  <a href="https://discord.gg/s9X8qqug"> <img src="https://skillicons.dev/icons?i=discord" width="55" alt="Discord"> </a>
+  <a href="https://discord.gg/q5AzVtRKCk"> <img src="https://skillicons.dev/icons?i=discord" width="55" alt="Discord"> </a>
   <a href="https://bsky.app/profile/shalenmathew.bsky.social"> <img src="https://cdn.simpleicons.org/bluesky/0A7AFF" width="55" alt="Bluesky"> </a> <a href="mailto:shalenmj@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Gmail"> </a> <a href="https://linktr.ee/shalenmathew"> <img src="https://cdn.simpleicons.org/linktree/39E09B" width="55" alt="Linktree"> </a> </div>
 
 # 📊 GitHub Stats:

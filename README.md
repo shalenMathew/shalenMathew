@@ -22,17 +22,9 @@
   <a href="https://discord.gg/q5AzVtRKCk"> <img src="https://skillicons.dev/icons?i=discord" width="55" alt="Discord"> </a>
   <a href="https://bsky.app/profile/shalenmathew.bsky.social"> <img src="https://cdn.simpleicons.org/bluesky/0A7AFF" width="55" alt="Bluesky"> </a> <a href="mailto:shalenmj@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Gmail"> </a> <a href="https://linktr.ee/shalenmathew"> <img src="https://cdn.simpleicons.org/linktree/39E09B" width="55" alt="Linktree"> </a> </div>
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalenMathew&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shalenMathew&theme=tokyonight&hide_border=true" height="160"/>
-</div>
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalenMathew&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
 
-## 🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shalenMathew&theme=onedark&row=1&no-frame=true&margin-w=15" /> </div>
+## 🏆 Contribution Grass
+![Contribution to Grass](https://raw.githubusercontent.com/shalenMathew/shalenMathew/refs/heads/output/output.png)
 
 
 

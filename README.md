@@ -5,8 +5,9 @@
 <img width="1500" height="500" alt="x updated banner  2" src="https://github.com/user-attachments/assets/8ca68c6c-7c07-4a13-931b-902d1110f295" />
 
 
-## 🏆 Contribution Grass
+## 🏆 Contribution Grass 
 ![Contribution to Grass](https://raw.githubusercontent.com/shalenMathew/shalenMathew/refs/heads/output/output.png)
+(credits: https://github.com/nrysk/cgrass)
 
 ## 🔧 Technologies I Work With:
 <div align="center">

@@ -16,7 +16,7 @@
 </div>
 
 ## 📄 My Resume
-<div align="center"> <a href="https://drive.google.com/file/d/1a9WhJuE0x6QJKWCh-w8nFCErMI8xAYsU/view?usp=drive_link" target="_blank"> <img src="https://img.shields.io/badge/VIEW%20RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button" /> </a> </div>
+<div align="center"> <a href="https://drive.google.com/file/d/1MCMomTIn32hr0yGc9jOR07gQc_cKiXKr/view?usp=drive_link" target="_blank"> <img src="https://img.shields.io/badge/VIEW%20RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button" /> </a> </div>
 
 
 ## 📚 Let's Connect:

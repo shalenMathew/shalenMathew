@@ -11,8 +11,15 @@
 
 ## 🔧 Technologies I Work With:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,git,github,gitlab,postman" /><br/>
+  <img src="https://skillicons.dev/icons?i=kotlin" />
   <img src="https://skillicons.dev/icons?i=ktor" />
+    <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+    <img src="https://skillicons.dev/icons?i=gradle" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=git />
+  <img src="https://skillicons.dev/icons?i=postman" />
+
 </div>
 
 ## 📄 My Resume

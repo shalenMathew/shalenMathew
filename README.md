@@ -7,23 +7,37 @@
 
 ## 🏆 Contribution Grass 
 ![Contribution to Grass](https://raw.githubusercontent.com/shalenMathew/shalenMathew/refs/heads/output/output.png)
-(credits: https://github.com/nrysk/cgrass)
 
+
+<!--
 ## 🔧 Technologies I Work With:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin" />
   <img src="https://skillicons.dev/icons?i=ktor" />
-    <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=androidstudio" />
-    <img src="https://skillicons.dev/icons?i=gradle" />
+  <img src="https://skillicons.dev/icons?i=gradle" />
   <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=git />
+  <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=postman" />
-
 </div>
 
 ## 📄 My Resume
-<div align="center"> <a href="https://drive.google.com/file/d/1EqtSxgq_OpWLFlmPnBEGYmI-VtRD_5gh/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/VIEW%20RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button" /> </a> </div>
+<div align="center">
+  <a href="https://drive.google.com/file/d/1EqtSxgq_OpWLFlmPnBEGYmI-VtRD_5gh/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW%20RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button" />
+  </a>
+</div>
+-->
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=50b6fb864a61">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=light&v=50b6fb864a61">
+  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=50b6fb864a61">
+</picture>
+<!-- GITHUBWALLPAPER:END -->
 
 
 ## 📚 Let's Connect:
@@ -35,15 +49,3 @@
 
 
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=50b6fb864a61">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=light&v=50b6fb864a61">
-  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=50b6fb864a61">
-</picture>
-<!-- GITHUBWALLPAPER:END -->

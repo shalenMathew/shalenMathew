@@ -40,12 +40,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
 <!-- GITHUBWALLPAPER:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=375e10ec0fec">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=light&v=375e10ec0fec">
-  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=375e10ec0fec">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=50b6fb864a61">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=light&v=50b6fb864a61">
+  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=50b6fb864a61">
 </picture>
 <!-- GITHUBWALLPAPER:END -->

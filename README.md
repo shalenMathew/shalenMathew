@@ -10,9 +10,9 @@
 
 <!-- GITHUBWALLPAPER:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=970613ab36b7">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=light&v=970613ab36b7">
-  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=970613ab36b7">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=cd920736b2bf">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=light&v=cd920736b2bf">
+  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/9gboklouoyz0yxo0zv7s99wu?theme=dark&v=cd920736b2bf">
 </picture>
 <!-- GITHUBWALLPAPER:END -->
 
